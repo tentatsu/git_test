@@ -3,4 +3,4 @@ hyo-sagyou-1ブランチで追加したファイル。
 echo "Jacky:hanage dete masuyo <br>";
 echo "Sudan:lady ni mukatte shiturei ne!!!!<br>";
 echo "Danny:Hey Baby I`m Daniel<br>";
-
+echo "Sudan:Danny!! I love You!!!"
