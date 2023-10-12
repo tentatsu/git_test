@@ -9,7 +9,7 @@ on:
     types: [opened, synchronize]
 
 concurrency:
-  group: ${{ github.repository }}-${{ github.head_ref || github.sha }}-${{ github.workflow }}-pr
+  group: ${{ github.repository }}-pr-${{ github.event.pull_request.number }}-${{ github.workflow }}
   cancel-in-progress: true
 
 
