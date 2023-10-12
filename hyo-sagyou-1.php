@@ -1,9 +1,13 @@
-hyo-sagyou-1ƒuƒ‰ƒ“ƒ`‚Å’Ç‰Á‚µ‚½ƒtƒ@ƒCƒ‹B
+hyo-sagyou-1ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½Å’Ç‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½B
 <?php
 echo "Jacky:hanage dete masuyo <br>";
 echo "Sudan:lady ni mukatte shiturei ne!!!!<br>";
 echo "Danny:Hey Baby I`m Daniel<br>";
 echo "Charry:Chary is come.Hey!Jule!!<br>";
 echo "hyohyo";
-echo "John:‚Ù‚°‚Ù‚°";
+echo "John:ï¿½Ù‚ï¿½ï¿½Ù‚ï¿½";
 sendo
+
+
+
+ssssssssssss
