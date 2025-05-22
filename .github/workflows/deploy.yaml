@@ -1,0 +1,15 @@
+name: Manual Deploy on Tag
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag to deploy (must be test_v*)'
+        required: true
+
+jobs:
+  manual-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo tag name
+        run: echo "Deploying tag ${{ github.event.inputs.tag }}"
